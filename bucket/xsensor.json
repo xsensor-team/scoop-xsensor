@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "XSensor infrastructure CLI",
   "homepage": "https://github.com/xsensor-team/xsensor",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/xsensor-team/scoop-xsensor/releases/download/v0.1.4/xsensor-x86_64-pc-windows-msvc.zip",
-      "hash": "7044bb035e73c6d9ab3592ea216cb0ad184e18b2309254cc93947e798cab0c8d"
+      "url": "https://github.com/xsensor-team/scoop-xsensor/releases/download/v0.1.5/xsensor-x86_64-pc-windows-msvc.zip",
+      "hash": "bb7668049d411b58ddc71af4492e96c3591fff2d5a41b7dade86af5605e3c818"
     }
   },
   "bin": "xsensor.exe",
